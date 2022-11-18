@@ -2,18 +2,25 @@
 ### *Hello Im Reina from 9-Pro Welcome to my site‼*
 [My LMS📖](https://jhsportal.adnu.edu.ph/)
 [Me](https://scontent.fdvo2-1.fna.fbcdn.net/v/t39.30808-6/298657309_803787760616359_2773200783352045974_n.jpg?stp=cp0_dst-jpg_e15_p160x160_q65&_nc_cat=101&ccb=1-7&_nc_sid=7aed08&_nc_ohc=ku72YG5Fo1gAX9t74aa&_nc_ht=scontent.fdvo2-1.fna&oh=00_AfAmLreqqVmM5T7fnFzYCtTL78ImmOcB18K5owqtGkGvVQ&oe=637B3812)
-### About me👧
+## About me👧
 I'm a Cancer ♋🦀(The Zodiac Sign)
+I love cats(hehe)🐈🐱♥
+INFP
+She/They
+### Socials🤼
+[Instagram](https://www.instagram.com/rnsvm_/)
+
+[Facebook](https://www.facebook.com/reinasofia.melchor)
+## Music
 ### Favorite Band🎶
-I need to highlight these ==*Bita and The Botflies*==.
+*Bita and The Botflies*
 
 Bita and The Botflies is an Alternative Indie Rock band who are known for tackling dark topics involving women in their songs. The band consists of five memebers (specifed below), as well as nominated in multiple awards. 
 
 
 ![Bita and The Botflies](https://user-images.githubusercontent.com/118333498/202359669-c62070c2-5b73-48cf-9235-b056b2b7968a.png)
 ![Bita and The Botflies](https://user-images.githubusercontent.com/118333498/202584227-d6b4519d-e6af-4d30-ac8a-aced2940eeb9.png)
-![image](https://user-images.githubusercontent.com/118333498/202732946-d6adff1f-d373-474d-a618-581c1991be9f.png)
-![Bita and The Botflies](https://user-images.githubusercontent.com/118333498/202731371-68c16c36-37e6-45e0-9861-d1343c548167.png)
+![Bita and The Botflies](https://user-images.githubusercontent.com/118333498/202732946-d6adff1f-d373-474d-a618-581c1991be9f.png)
 
 
 
@@ -32,3 +39,4 @@ Bita and The Botflies is an Alternative Indie Rock band who are known for tackli
 - [Myx Music Award for Bandarito Performance](https://www.rankthemag.ph/myx-music-awards-2019-full-list-of-nominees/)
 ### Albums
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4XvJs9kQQCQz8zEwi13ils?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### Honorably Mentionable Bands
