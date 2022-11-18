@@ -5,8 +5,17 @@
 ### About me👧
 I'm a Cancer ♋🦀(The Zodiac Sign)
 ### Favorite Band🎶
-Slay
+Bita and The Botflies 
+
+Bita and The Botflies is an Alternative Indie Rock band who are known for tacklng dark topics involving women in their songs. The band cocnsiots of five memebers (specifed below). 
 
 
 ![Bita and The Botflies](https://user-images.githubusercontent.com/118333498/202359669-c62070c2-5b73-48cf-9235-b056b2b7968a.png)
 ![Bita and The Botflies](https://user-images.githubusercontent.com/118333498/202584227-d6b4519d-e6af-4d30-ac8a-aced2940eeb9.png)
+
+### Members
+1. [Sofy Aldeguer](https://www.imdb.com/name/nm11647033/bio)
+2. [Rebel Aldeguer](https://www.imdb.com/name/nm12004817/bio)
+3. [Rheymon Conception](https://ph.linkedin.com/in/rheymon-concepcion-0877a95a)
+4. [Kevin Navea](https://www.imdb.com/name/nm12004819/bio)
+5. [Mark Licallo](https://www.personality-database.com/profile/266467/mark-licallo-asia-musicians-mbti-personality-type)
