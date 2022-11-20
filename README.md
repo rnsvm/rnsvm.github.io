@@ -47,11 +47,13 @@ Bita and The Botflies is an Alternative Indie Rock band who are known for tackli
 - [Myx Music Award for Bandarito Performance](https://www.rankthemag.ph/myx-music-awards-2019-full-list-of-nominees/) 2019
 ### Albums
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4XvJs9kQQCQz8zEwi13ils?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 ### Honorably Mentionable Bands/Artists
 
 
 
-### *Tame Impala*
+### [*Tame Impala*](https://en.wikipedia.org/wiki/Tame_Impala)
 
 
 
@@ -62,7 +64,7 @@ Bita and The Botflies is an Alternative Indie Rock band who are known for tackli
 
 
 
-### *dwta*
+### [*dwta*](https://www.facebook.com/akoaydwta/)
 
 
 
@@ -73,7 +75,7 @@ Bita and The Botflies is an Alternative Indie Rock band who are known for tackli
 
 
 
-### *The Crane Wives*
+### [*The Crane Wives*](http://www.thecranewives.com/bio)
 
 
 
@@ -84,7 +86,7 @@ Bita and The Botflies is an Alternative Indie Rock band who are known for tackli
 
 
 
-### *Rio Romeo*
+### [*Rio Romeo*](https://www.rioromeo.com/about#:~:text=Rio%20Romeo%20is%20a%20lesbian,rio%40riodoeseverything.com)
 
 
 
@@ -107,18 +109,11 @@ My first cat, growing up he always has zoomies and was hyper. He's the sweetest 
 
 
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+
 
 
 ```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+
 ```
 
 
