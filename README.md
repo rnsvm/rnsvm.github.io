@@ -102,18 +102,13 @@ Bita and The Botflies is an Alternative Indie Rock band who are known for tackli
 # My Cats
 
 ### Ginger
+
+```
 My first cat, growing up he always has zoomies and was hyper. He's the sweetest little soul but sometimes has a snob attitude. He's always been very cautious and careful of his surroundings, he's a goofy kitty who loves ribbons and mouse toys 🐁♥
+```
 
 
 ![image](https://user-images.githubusercontent.com/118333498/202887358-e64eb76d-b4a4-42a9-9781-5a51a6c16e13.png)
 
-
-
-
-
-
-```
-
-```
 
 
