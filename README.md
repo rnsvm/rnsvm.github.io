@@ -1,6 +1,5 @@
 # Welcome to rnsvm.github.io💖
 ### *Hello Im Reina from 9-Pro Welcome to my site‼*
-[My LMS📖](https://jhsportal.adnu.edu.ph/)
 [Me](https://scontent.fmnl13-2.fna.fbcdn.net/v/t1.15752-9/311291860_2344396759053986_5267964204645690296_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFIq3Po014VJqX8VKpEC57soJV2uQvh46OglXa5C-Hjo5LQsrsBDOqHN_bqkC1V_3msCStI0nTSPGcXIomOXADY&_nc_ohc=k39qsmjdStMAX9mD1Ij&_nc_ht=scontent.fmnl13-2.fna&oh=03_AdQL-RjObu5f9EyzmSViaPDntvCc6P7q0Foez9aEnajlVw&oe=639F261F)
 # About me👧
 
@@ -21,7 +20,7 @@ She/They
 
 ### *Bita and The Botflies*
 
-Bita and The Botflies is an Alternative Indie Rock band who are known for tackling dark topics involving women in their songs. The band consists of five memebers (specifed below), as well as nominated in multiple awards. 
+Bita and The Botflies is an Alternative Indie Rock band who are known for tackling dark topics involving women in their songs (specify). The band consists of five memebers (specifed below), as well as nominated in multiple awards. 
 
 
 ![Bita and The Botflies](https://user-images.githubusercontent.com/118333498/202359669-c62070c2-5b73-48cf-9235-b056b2b7968a.png)
@@ -99,6 +98,22 @@ Bita and The Botflies is an Alternative Indie Rock band who are known for tackli
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gs-MtItyOFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# My Hobbies
+- Reading📚
+- Watching movies/shows/cartoons📺
+
+### Favorite books📚
+[Alice's Adventures in Wonderland](https://www.goodreads.com/book/show/60671823-alice-s-adventures-in-wonderland)
+By [Lewis Carroll](https://www.goodreads.com/author/show/8164.Lewis_Carroll)
+[What Happened To You?: Conversations on Trauma, Resilience, and Healing](https://www.goodreads.com/en/book/show/53238858-what-happened-to-you)
+By [Bruce D. Perry](https://www.goodreads.com/author/show/74693.Bruce_D_Perry) and [Oprah Winfrey](https://www.goodreads.com/author/show/3518.Oprah_Winfrey)
+[Eating Fire and Drinking Water](https://www.goodreads.com/en/book/show/1081084.Eating_Fire_and_Drinking_Water)
+By [Arlene J. Chai](https://www.goodreads.com/author/show/214289.Arlene_J_Chai)
+
+### Favorite Shows/Movies📺
+1. [Disenchantment](https://www.imdb.com/title/tt5363918/)
+2. [Saiki K](https://www.imdb.com/title/tt6354518/)
+3. ...
 # My Cats
 
 ### Ginger
