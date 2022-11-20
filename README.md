@@ -19,7 +19,7 @@ She/They
 # Music
 ### Favorite Band🎶
 
-*Bita and The Botflies*
+### *Bita and The Botflies*
 
 Bita and The Botflies is an Alternative Indie Rock band who are known for tackling dark topics involving women in their songs. The band consists of five memebers (specifed below), as well as nominated in multiple awards. 
 
@@ -51,7 +51,7 @@ Bita and The Botflies is an Alternative Indie Rock band who are known for tackli
 
 
 
-*Tame Impala*
+### *Tame Impala*
 
 
 
@@ -62,7 +62,7 @@ Bita and The Botflies is an Alternative Indie Rock band who are known for tackli
 
 
 
-*dwta*
+### *dwta*
 
 
 
@@ -73,7 +73,7 @@ Bita and The Botflies is an Alternative Indie Rock band who are known for tackli
 
 
 
-*The Crane Wives*
+### *The Crane Wives*
 
 
 
@@ -84,7 +84,7 @@ Bita and The Botflies is an Alternative Indie Rock band who are known for tackli
 
 
 
-*Rio Romeo*
+### *Rio Romeo*
 
 
 
