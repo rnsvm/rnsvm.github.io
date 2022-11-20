@@ -104,11 +104,20 @@ Bita and The Botflies is an Alternative Indie Rock band who are known for tackli
 
 ### Favorite books📚
 [Alice's Adventures in Wonderland](https://www.goodreads.com/book/show/60671823-alice-s-adventures-in-wonderland)
+
 By [Lewis Carroll](https://www.goodreads.com/author/show/8164.Lewis_Carroll)
+
+
 [What Happened To You?: Conversations on Trauma, Resilience, and Healing](https://www.goodreads.com/en/book/show/53238858-what-happened-to-you)
+
 By [Bruce D. Perry](https://www.goodreads.com/author/show/74693.Bruce_D_Perry) and [Oprah Winfrey](https://www.goodreads.com/author/show/3518.Oprah_Winfrey)
+
+
 [Eating Fire and Drinking Water](https://www.goodreads.com/en/book/show/1081084.Eating_Fire_and_Drinking_Water)
+
 By [Arlene J. Chai](https://www.goodreads.com/author/show/214289.Arlene_J_Chai)
+
+
 
 ### Favorite Shows/Movies📺
 1. [Disenchantment](https://www.imdb.com/title/tt5363918/)
