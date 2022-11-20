@@ -2,7 +2,7 @@
 ### *Hello Im Reina from 9-Pro Welcome to my site‼*
 [My LMS📖](https://jhsportal.adnu.edu.ph/)
 [Me](https://scontent.fmnl13-2.fna.fbcdn.net/v/t1.15752-9/311291860_2344396759053986_5267964204645690296_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeFIq3Po014VJqX8VKpEC57soJV2uQvh46OglXa5C-Hjo5LQsrsBDOqHN_bqkC1V_3msCStI0nTSPGcXIomOXADY&_nc_ohc=k39qsmjdStMAX9mD1Ij&_nc_ht=scontent.fmnl13-2.fna&oh=03_AdQL-RjObu5f9EyzmSViaPDntvCc6P7q0Foez9aEnajlVw&oe=639F261F)
-## About me👧
+# About me👧
 
 I'm a Cancer ♋🦀(The Zodiac Sign)
 
@@ -16,7 +16,7 @@ She/They
 [Instagram](https://www.instagram.com/rnsvm_/)
 
 [Facebook](https://www.facebook.com/reinasofia.melchor)
-## Music
+# Music
 ### Favorite Band🎶
 
 *Bita and The Botflies*
@@ -97,7 +97,7 @@ Bita and The Botflies is an Alternative Indie Rock band who are known for tackli
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gs-MtItyOFc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## My Cats
+# My Cats
 
 ### Ginger
 
