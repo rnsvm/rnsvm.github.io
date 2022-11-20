@@ -109,7 +109,7 @@ My first cat, growing up he always had zoomies and was hyper when he was little.
 
 
 ### Nimbus
-When I first met Nimbus she was skinny and unernourished, she was saved by my sister's boyfriend and he soon gave Nimbus to me because the previous owners could no longer care for her. She's had five children overall, the first one being cloud followed by four more namely Midnight, Chichi(now adopted by my friend), Butterscotch and Calico. Chichi, Midnight, and Calico went to seperate caring homes while I kept Cloud and my sister kept Butterscotch. Nimbus is now happy and healthy very much chonkier than she previously was! She's an adventerous little kitty who loves the outside!💗
+When I first met Nimbus she was skinny and undernourished, she was saved by my sister's boyfriend and he soon gave Nimbus to me because the previous owners could no longer care for her. She's had five children overall, the first one being cloud followed by four more namely Midnight, Chichi(now adopted by my friend), Butterscotch and Calico. Chichi, Midnight, and Calico went to seperate caring homes while I kept Cloud and my sister kept Butterscotch. Nimbus is now happy and healthy very much chonkier than she previously was! She's an adventerous little kitty who loves the outside!💗
 
 
 ![image](https://user-images.githubusercontent.com/118333498/202906251-5ac7e4e6-1aa1-4d5c-b941-351adc12b9d6.png)
