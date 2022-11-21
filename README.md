@@ -20,7 +20,7 @@ She/They
 
 ### *Bita and The Botflies*
 
-Bita and The Botflies is an Alternative Indie Rock band who are known for tackling dark topics involving women in their songs (specify). The band consists of five memebers (specifed below), as well as nominated in multiple awards. 
+Bita and The Botflies is an Alternative Indie Rock band who are known for tackling [dark topics involving women in their songs](https://www.cosmo.ph/entertainment/indie-band-bita-and-the-botflies-serious-issues-a2520-20191103). The band consists of five memebers (specifed below), as well as nominated in multiple awards. 
 
 
 ![Bita and The Botflies](https://user-images.githubusercontent.com/118333498/202359669-c62070c2-5b73-48cf-9235-b056b2b7968a.png)
@@ -118,11 +118,11 @@ By [Bruce D. Perry](https://www.goodreads.com/author/show/74693.Bruce_D_Perry) a
 By [Arlene J. Chai](https://www.goodreads.com/author/show/214289.Arlene_J_Chai)
 
 
-
 ### Favorite Shows/Movies📺
 1. [Disenchantment](https://www.imdb.com/title/tt5363918/)
 2. [Saiki K](https://www.imdb.com/title/tt6354518/)
-3. ...
+3. [Steven Universe](https://www.imdb.com/title/tt3061046/)
+
 # My Cats
 
 ### Ginger
