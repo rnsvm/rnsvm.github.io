@@ -129,18 +129,18 @@ By [Arlene J. Chai](https://www.goodreads.com/author/show/214289.Arlene_J_Chai)
 My first cat, growing up he always had zoomies and was hyper when he was little. He's the sweetest little soul but sometimes has a snob attitude. He's always been very cautious and careful of his surroundings, he's a goofy kitty who loves ribbons and mouse toys 🐁♥
 
 
-![image](https://user-images.githubusercontent.com/118333498/202887358-e64eb76d-b4a4-42a9-9781-5a51a6c16e13.png)
+![Ginger](https://user-images.githubusercontent.com/118333498/202887358-e64eb76d-b4a4-42a9-9781-5a51a6c16e13.png)
 
 
 ### Nimbus
 When I first met Nimbus she was skinny and undernourished, she was saved by my sister's boyfriend and he soon gave Nimbus to me because the previous owners could no longer care for her. She's had five children overall, the first one being cloud followed by four more namely Midnight, Chichi(now adopted by my friend), Butterscotch and Calico. Chichi, Midnight, and Calico went to seperate caring homes while I kept Cloud and my sister kept Butterscotch. Nimbus is now happy and healthy very much chonkier than she previously was! She's an adventerous little kitty who loves the outside!💗
 
 
-![image](https://user-images.githubusercontent.com/118333498/202906251-5ac7e4e6-1aa1-4d5c-b941-351adc12b9d6.png)
+![Nimbus](https://user-images.githubusercontent.com/118333498/202906251-5ac7e4e6-1aa1-4d5c-b941-351adc12b9d6.png)
 
 
 ### Cloud
 Cloud is the firstborn, son of Nimbus and Ginger (my two cats). Cloud was the only child until his siblings came a few months later. This led to him being very spoiled and naugthy. Nonetheless, we still love his cute little kulit self even when he does the worst things or give off a bad tempered attitude. Like his mother and father Cloud loves mouse toys and the outside!🐁🌳♥
 
 
-![image](https://user-images.githubusercontent.com/118333498/202906200-24becb23-648b-4b4d-94cb-bb402c48486f.png)
+![Cloud](https://user-images.githubusercontent.com/118333498/202906200-24becb23-648b-4b4d-94cb-bb402c48486f.png)
